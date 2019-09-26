@@ -1,0 +1,13 @@
+{
+    "name": "simple-solution/wp-plugin-boilerplate",
+    "description": "SSO WP Boilerplate plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vycheslav Naumenko",
+            "email": "vna@sso-dev.ru"
+        }
+    ],
+    "require": {}
+}
